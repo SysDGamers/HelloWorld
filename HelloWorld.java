@@ -7,6 +7,7 @@ public class HelloWorld {
 		// test comment
 
 		System.out.println("HelloWorld");
+		System.out.println("HelloWorld‚Q");
 	}
 
 }
